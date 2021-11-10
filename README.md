@@ -1,16 +1,23 @@
-### Hi there 👋
+# Olá, Galera!! 📱
+## Eu sou a Sarah Pontes💪🏾
+###### Em transição de carreira 👩🏾‍💻🤎
+ </p>
 
-<!--
-**SarahSouzaPontes/SarahSouzaPontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍀 <b> OBJETIVO DE VIDA ATUAL? TRANSIÇÃO DE CARREIRA </b>🍀 
+</p>
+ 👩🏾‍🎓 Graduação Fisioterapia & Enfermagem. Mestrado em Desenvolvimento Humano e Responsabilidade Social, Doutoranda em Medicina e Saúde Humana.
+ </p>
+🔭💻 Eu estou iniciando na área de tecnologia e ciência de dados!📊🖇️
+  </p> 
+  
+💬 Estudando • HTML • CSS • Javascript • Lógica  • Banco de Dados • SQL • Node.js • React • Metodologias Ágeis • Git • Python • Software Estatístico R!!!
+   </p>
+  
+ 📫 Contato via e mail: sarahspontes@gmail.com 
+ </p>
+- 🔋 Linkedin: https://www.linkedin.com/in/sarah-pontes-b018064a/ 
+   </p>
+- 🔋 Blog Profissional: https://sarahspontes.webnode.com/ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   </p>
+📝📚  Escrevendo minha própria história 📚📝  
