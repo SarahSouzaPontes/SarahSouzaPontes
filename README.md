@@ -27,7 +27,7 @@
 
 
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=SarahSouzaPontes_icons=true)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=SarahSouzaPontes=true)
 
 
 
