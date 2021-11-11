@@ -28,4 +28,5 @@
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SarahSouzaPontes)](https://github.com/anuraghazra/github-readme-stats)
+1
+[![SarahSouzaPontes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SarahSouzaPontes)](https://github.com/anuraghazra/github-readme-stats)
