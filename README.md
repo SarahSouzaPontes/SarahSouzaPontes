@@ -5,12 +5,12 @@
 
 🍀 <b> OBJETIVO DE VIDA ATUAL? TRANSIÇÃO DE CARREIRA </b>🍀 
 </p>
- 👩🏾‍🎓 Graduação Fisioterapia & Enfermagem. Mestrado em Desenvolvimento Humano e Responsabilidade Social, Doutoranda em Medicina e Saúde Humana.
+ 👩🏾‍🎓 Graduação Fisioterapia & Enfermagem. Mestrado em Desenvolvimento Humano e Responsabilidade Social, Doutoranda em Medicina e Saúde Humana. Cursando Análise de Desenvolvimento de Sistemas.
  </p>
 🔭💻 Eu estou iniciando na área de tecnologia e ciência de dados!📊🖇️
   </p> 
   
-💬 Estudando • HTML • CSS • Javascript • Lógica  • Banco de Dados • SQL • Node.js • React • Metodologias Ágeis • Git • Python • Software Estatístico R!!!
+💬 Estudando • HTML • CSS • Javascript • Lógica  • Banco de Dados • SQL • Node.js • React • Metodologias Ágeis • GitHub • Python • Software Estatístico R!!!
    </p>
   
  📫 Contato via e mail: sarahspontes@gmail.com 
