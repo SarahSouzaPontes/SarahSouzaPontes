@@ -2,7 +2,7 @@
 ## Eu sou a Sarah Pontes💪🏾👩🏾‍💻🤎
  </p>
 
-🍀 <b> Granduando em Análise e Desenvolvimento de Sistemas / Analista de Dados </b>🍀 
+🍀 <b> Granduanda em Análise e Desenvolvimento de Sistemas / Analista de Dados </b>🍀 
 </p>
  👩🏾‍🎓 Graduação Fisioterapia & Enfermagem. Mestrado em Desenvolvimento Humano e Responsabilidade Social, Doutora em Medicina e Saúde Humana. 
  </p>
