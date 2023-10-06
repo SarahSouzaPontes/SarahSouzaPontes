@@ -4,7 +4,7 @@
 
 🍀 <b> Granduando em Análise e Desenvolvimento de Sistemas / Analista de Dados </b>🍀 
 </p>
- 👩🏾‍🎓 Graduação Fisioterapia & Enfermagem. Mestrado em Desenvolvimento Humano e Responsabilidade Social, Doutoranda em Medicina e Saúde Humana. Cursando Análise de Desenvolvimento de Sistemas.
+ 👩🏾‍🎓 Graduação Fisioterapia & Enfermagem. Mestrado em Desenvolvimento Humano e Responsabilidade Social, Doutora em Medicina e Saúde Humana. 
  </p>
 🔭💻 Eu estou iniciando na área de tecnologia e ciência de dados!📊🖇️
   </p> 
