@@ -1,9 +1,8 @@
 # Olá, Galera!! 📱
-## Eu sou a Sarah Pontes💪🏾
-###### Em transição de carreira 👩🏾‍💻🤎
+## Eu sou a Sarah Pontes💪🏾👩🏾‍💻🤎
  </p>
 
-🍀 <b> OBJETIVO DE VIDA ATUAL? TRANSIÇÃO DE CARREIRA </b>🍀 
+🍀 <b> Granduando em Análise e Desenvolvimento de Sistemas / Analista de Dados </b>🍀 
 </p>
  👩🏾‍🎓 Graduação Fisioterapia & Enfermagem. Mestrado em Desenvolvimento Humano e Responsabilidade Social, Doutoranda em Medicina e Saúde Humana. Cursando Análise de Desenvolvimento de Sistemas.
  </p>
