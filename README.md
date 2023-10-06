@@ -15,8 +15,7 @@
  📫 Contato via e mail: sarahspontes@gmail.com 
  </p>
 - 🔋 Linkedin: https://www.linkedin.com/in/sarahspontes/
-   </p>
-- 🔋 Blog Profissional: https://sarahspontes.webnode.com/ 
+
 
    </p>
 📝📚  Escrevendo minha própria história 📚📝  
